@@ -1,0 +1,10 @@
+.size {
+    padding: 8px 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #a4a4a4;
+    border-radius: 15px;
+}
+
+.size-priority {
+    width: 290px !important; 
+}
